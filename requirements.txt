@@ -1,0 +1,12 @@
+torch
+transformers
+pandas
+tqdm
+haystack
+colorama
+progress
+huggingface_hub
+evaluate
+numpy
+sentence-transformers
+openai
